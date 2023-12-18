@@ -1,5 +1,5 @@
 # hello-world
-Delusion
+
 My name is Hayford Kofi Quaye, and I have been working as an IT personnel for Dannex Ayrton Starwin plc for the past 8 years. Throughout my time in this role, I have gained valuable experience and honed my skills in various aspects of information technology.
 
 During my tenure with Dannex Ayrton Starwin plc, I have actively contributed to the company's success by efficiently managing their IT infrastructure, overseeing software installations, troubleshooting technical issues, and implementing security measures. I have successfully played a pivotal role in ensuring the smooth functioning of the company's technological operations.
